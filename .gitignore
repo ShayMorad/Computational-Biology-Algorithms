@@ -1,0 +1,21 @@
+# Environments, caches, data and output directories
+.venv/
+venv/
+myenv/
+__pycache__/
+*.py[cod]
+.idea/
+.ipynb_checkpoints/
+.pytest_cache/
+*.gz
+*.tar
+*.zip
+*.tar.gz
+*.fasta
+*.fa
+*.nwk
+*.tre
+*.npz
+*.pkl
+data/
+plots/
